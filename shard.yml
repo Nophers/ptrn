@@ -1,0 +1,9 @@
+name: ptrn
+version: 1.0.1
+
+authors:
+  - vKxni
+
+crystal: 1.3.2
+
+license: MIT
